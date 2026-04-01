@@ -1,0 +1,6 @@
+model,hit_at_1,hit_at_3,hit_at_5,hit_at_10,hit_at_20,mrr
+BioLORD flat,0.1184,0.2229,0.2767,0.3774,0.4766,0.1937
+BioLORD chunked mean_max,0.1414,0.2606,0.3251,0.4304,0.5204,0.2270
+MedCPT sym flat,0.1668,0.2898,0.3559,0.4481,0.5380,0.2536
+MedCPT sym chunked mean_max,0.1814,0.3059,0.3743,0.4704,0.5596,0.2691
+MedCPT asym flat,0.0799,0.1476,0.1975,0.2690,0.3682,0.1381
