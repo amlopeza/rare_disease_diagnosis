@@ -1,6 +1,11 @@
-jupyter
 numpy
 pandas
 scikit-learn
-scipy
-requests
+xgboost
+matplotlib
+seaborn
+nltk
+wordcloud
+sentence-transformers
+transformers
+torch
